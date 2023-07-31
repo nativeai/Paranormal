@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.2",
+	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -9,18 +9,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "DatasmithGLTFImporter",
-			"Enabled": true
-		},
-		{
 			"Name": "DatasmithCADImporter",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
-		},
-		{
-			"Name": "DatasmithIFCImporter",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win64"
